@@ -1,0 +1,17 @@
+--2023-03-26 19:03:18--  https://raw.githubusercontent.com/sartography/spiff-arena/main/docker-compose.yml
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.110.133, 185.199.111.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 3575 (3.5K) [text/plain]
+Saving to: ‘docker-compose.yml’
+
+     0K ...                                                   100% 17.0M=0s
+
+2023-03-26 19:03:18 (17.0 MB/s) - ‘docker-compose.yml’ saved [3575/3575]
+
+--2023-03-26 19:03:18--  http://docker-compose.yml/
+Resolving docker-compose.yml (docker-compose.yml)... failed: nodename nor servname provided, or not known.
+wget: unable to resolve host address ‘docker-compose.yml’
+FINISHED --2023-03-26 19:03:18--
+Total wall clock time: 0.4s
+Downloaded: 1 files, 3.5K in 0s (17.0 MB/s)
